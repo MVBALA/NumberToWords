@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+       NumberToWords.numberToWords(10);
+       NumberToWords.numberToWords(4409);
+
     }
 }
